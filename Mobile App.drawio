@@ -1,32 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T15:19:32.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="JCSmKiW6SGd-n0ry7lTV" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T15:31:20.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="l_JIfNIi13KkKuehTi1E" version="13.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1829" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="gGnMCyvagH3UXZfCAkN4-0" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="70" as="sourcePoint" />
+            <mxPoint x="250" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Email from Trellus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="70" y="50" width="120" height="40" as="geometry" />
+        <mxCell id="gGnMCyvagH3UXZfCAkN4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="70" as="sourcePoint" />
+            <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="gGnMCyvagH3UXZfCAkN4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gGnMCyvagH3UXZfCAkN4-0" target="gGnMCyvagH3UXZfCAkN4-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gGnMCyvagH3UXZfCAkN4-0" value="email confirmation&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="20" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="gGnMCyvagH3UXZfCAkN4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gGnMCyvagH3UXZfCAkN4-1" target="gGnMCyvagH3UXZfCAkN4-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gGnMCyvagH3UXZfCAkN4-1" value="User Registration" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430" y="30" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gGnMCyvagH3UXZfCAkN4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gGnMCyvagH3UXZfCAkN4-5" target="gGnMCyvagH3UXZfCAkN4-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gGnMCyvagH3UXZfCAkN4-5" value="&amp;nbsp;input email and password" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="640" y="40" width="100" height="60" as="geometry" />
+        <mxCell id="gGnMCyvagH3UXZfCAkN4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="gGnMCyvagH3UXZfCAkN4-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="110" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gGnMCyvagH3UXZfCAkN4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7_HCONuBHNa6cHCysJDs-2" target="gGnMCyvagH3UXZfCAkN4-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -123,37 +116,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7_HCONuBHNa6cHCysJDs-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="1470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7_HCONuBHNa6cHCysJDs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7_HCONuBHNa6cHCysJDs-11" target="gGnMCyvagH3UXZfCAkN4-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_HCONuBHNa6cHCysJDs-11" value="Symptom Tracking&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="1310" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7_HCONuBHNa6cHCysJDs-14" target="7_HCONuBHNa6cHCysJDs-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-14" value="Cancel?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="1590" width="110" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7_HCONuBHNa6cHCysJDs-15" target="7_HCONuBHNa6cHCysJDs-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-15" value="Enter GI Provider Visit Information&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="1754" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7_HCONuBHNa6cHCysJDs-16" target="7_HCONuBHNa6cHCysJDs-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-16" value="Cancel?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="409" y="1980" width="110" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="7_HCONuBHNa6cHCysJDs-17" value="Schedule Trellus Triad Visit" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="2180" width="100" height="100" as="geometry" />
+          <mxGeometry x="430" y="1300" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7_HCONuBHNa6cHCysJDs-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7_HCONuBHNa6cHCysJDs-39" target="7_HCONuBHNa6cHCysJDs-41">
           <mxGeometry relative="1" as="geometry">
@@ -177,6 +144,63 @@
         </mxCell>
         <mxCell id="7_HCONuBHNa6cHCysJDs-44" value="Schedule Appointment with Trellus Triad" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-54" value="User Registration" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="435" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-55" value="Email Confirmation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-56" value="Trellus &quot;Welcome&quot; email sent" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="10" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-58" value="Input email and password, accept policies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="639" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-59" value="Input disease onset, GI provider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="639" y="175" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-60" value="Answer Questions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="639" y="730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-61" value="Answer Questions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="639" y="1010" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-62" value="Answer Questions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-67" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=-0.075;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="7_HCONuBHNa6cHCysJDs-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1351" as="sourcePoint" />
+            <mxPoint x="383" y="1129" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-69" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1035" as="sourcePoint" />
+            <mxPoint x="630" y="1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-70" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="760" as="sourcePoint" />
+            <mxPoint x="630" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-71" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gGnMCyvagH3UXZfCAkN4-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="200" as="sourcePoint" />
+            <mxPoint x="630" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7_HCONuBHNa6cHCysJDs-72" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="54" as="sourcePoint" />
+            <mxPoint x="630" y="54" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
