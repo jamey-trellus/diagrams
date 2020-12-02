@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-02T14:13:02.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="I4cC7gU88aIqCUfLec6J" version="13.10.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-02T14:15:01.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="vezjpUku5jUFAcjL62oI" version="13.10.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Employee Onboarding">
     <mxGraphModel dx="1829" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,11 +80,20 @@
         <mxCell id="vSBJjcOGgfI8wVLBS3Ll-31" value="Techwise Onboarding" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="430" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-49" target="vSBJjcOGgfI8wVLBS3Ll-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSBJjcOGgfI8wVLBS3Ll-49" value="Sales" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="535" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-50" target="4V0ao6fgWBTx_BPk0Hml-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSBJjcOGgfI8wVLBS3Ll-50" value="Clinical" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="535" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-51" target="4V0ao6fgWBTx_BPk0Hml-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vSBJjcOGgfI8wVLBS3Ll-51" value="Product" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="535" width="100" height="100" as="geometry" />
@@ -92,8 +101,11 @@
         <mxCell id="vSBJjcOGgfI8wVLBS3Ll-57" value="Access to CRM, ZOOM, Mailchimp" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="670" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-58" target="4V0ao6fgWBTx_BPk0Hml-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vSBJjcOGgfI8wVLBS3Ll-58" value="Technology" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry y="530" width="100" height="100" as="geometry" />
+          <mxGeometry y="534" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4V0ao6fgWBTx_BPk0Hml-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-60" target="vSBJjcOGgfI8wVLBS3Ll-62">
           <mxGeometry relative="1" as="geometry">
