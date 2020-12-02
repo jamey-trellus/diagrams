@@ -1,92 +1,151 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T21:22:39.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="oEJAlVTTqPCAiZRaaK1c" version="13.9.6" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1002" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2020-12-02T14:13:02.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="I4cC7gU88aIqCUfLec6J" version="13.10.5" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Employee Onboarding">
+    <mxGraphModel dx="1829" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-12">
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Offer Letter Sent via TriNet/Email to Candidate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="vSBJjcOGgfI8wVLBS3Ll-4">
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="vSBJjcOGgfI8wVLBS3Ll-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Candidate Accepts Offer Letter &amp;amp; Sends Back to HR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-6" value="TriNet System sends out Contract, Payroll Paperwork to Candidate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-7" value="Candidate completes paperwork, returns to HR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-8" value="HR loads candidate into Bambee HR system" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-9" value="Bambee system sends all policies, trainings&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-10" value="Employee completes&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-11" value="Departmental onboarding begins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="520" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-4" value="HR Loads Candidate into TriNet" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-12" value="Get employee equipment ordered, secure &amp;amp; sent to employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="90" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-18" value="Clinical" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="190" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-19" value="Product" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="190" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-20" value="Sales" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="190" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-31" value="Techwise Onboarding" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-49" value="Sales" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="650" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-50" value="Clinical" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="650" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-51" value="Product" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="650" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;endSize=10;startSize=10;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="700" as="sourcePoint" />
-            <mxPoint x="670" y="700" as="targetPoint" />
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-6" target="vSBJjcOGgfI8wVLBS3Ll-7">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="700" />
+              <mxPoint x="740" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-53" value="Company Email Created (Tech Team)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="800" width="120" height="40" as="geometry" />
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-6" value="TriNet System sends out Contract, Payroll Paperwork to Candidate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="840" width="120" height="40" as="geometry" />
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-7" target="vSBJjcOGgfI8wVLBS3Ll-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-58" value="Technology" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="650" width="100" height="100" as="geometry" />
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-7" value="Candidate completes paperwork, returns to HR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-60" value="Technology" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="190" width="100" height="100" as="geometry" />
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-8" target="vSBJjcOGgfI8wVLBS3Ll-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-61" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-8" value="HR loads candidate into Bambee HR system" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-9" target="vSBJjcOGgfI8wVLBS3Ll-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-9" value="Bambee system sends all policies, trainings&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-10" target="vSBJjcOGgfI8wVLBS3Ll-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-10" value="Employee Completes Bambee assignments" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-11" value="Departmental onboarding begins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-4" value="HR Loads Employee in TriNet Payroll and company email is created" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="330" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-12" value="Get employee equipment ordered, secure &amp;amp; sent to employee" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-18" target="vSBJjcOGgfI8wVLBS3Ll-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-18" value="Clinical" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-19" value="Product" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-20" target="vSBJjcOGgfI8wVLBS3Ll-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-20" value="Sales" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-31" target="vSBJjcOGgfI8wVLBS3Ll-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-31" value="Techwise Onboarding" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-49" value="Sales" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="535" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-50" value="Clinical" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="250" y="535" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-51" value="Product" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="535" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-57" value="Access to CRM, ZOOM, Mailchimp" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-58" value="Technology" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="530" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vSBJjcOGgfI8wVLBS3Ll-60" target="vSBJjcOGgfI8wVLBS3Ll-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-60" value="Technology" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-61" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="30" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-62" value="HIPAA, Govt. Mandated, Trellus Company overview, MS Teams" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="vSBJjcOGgfI8wVLBS3Ll-62" value="Govt. Mandated, HIPAA, Trellus Company &amp;amp; Policies, MS Teams, Smartsheet" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="210" y="330" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-16" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vSBJjcOGgfI8wVLBS3Ll-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="240" as="sourcePoint" />
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-18" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="583" as="sourcePoint" />
+            <mxPoint x="520" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-19" value="Access to JIRA, Dash, AWS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-20" value="Access to THI platform, AmWell" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-21" value="Access to JIRA, Confluence, Smartsheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-26" value="" style="endArrow=none;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="420" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4V0ao6fgWBTx_BPk0Hml-27" value="" style="endArrow=classic;html=1;entryX=1.058;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="vSBJjcOGgfI8wVLBS3Ll-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
